@@ -1,0 +1,14 @@
+#Date 3/6/2025
+- my template done
+- created gitRepo
+-  only my template deployed 
+- leaning shopify integration
+- github url https://github.com/danger137/Shofy-store.git
+#Date 3/6/2025
+- my checkout methoad done
+-catagorey with shopify done
+-filter with shopify done 
+- created gitRepo
+-  only my template deployed 
+- leaning shopify integration
+- github url https://github.com/danger137/Shopco2.git
